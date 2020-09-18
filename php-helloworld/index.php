@@ -1,4 +1,4 @@
 <?php
-print "A change is in the air ! "\n";
+print "A change is in the air !\n";
 ?>
 
